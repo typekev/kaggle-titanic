@@ -15,3 +15,7 @@ The model is built using the `sagemaker` `xgboost` container.
 The data you need to run this project is all here in this repository already. But the data can also be downloaded [here.](https://www.kaggle.com/c/titanic/data)
 
 My submission data is also available in this repository, but it can be viewed [here](https://www.kaggle.com/typekev/competitions) as well.
+
+## Proposal and report
+
+My "Capstone Proposal" and "Capstone Report" can be viewed in this repository. See `capstone-report.pdf` and `proposal.pdf`.
